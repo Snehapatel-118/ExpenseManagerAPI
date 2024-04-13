@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAVINDRA.RAJ\\source\\repos\\ExpenseManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{670F7C35-2191-4202-9D28-8A3F5198B267}|ExpenseManagement\\ExpenseManagement.csproj|c:\\users\\ravindra.raj\\source\\repos\\expensemanagement\\expensemanagement\\repository\\expenserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670F7C35-2191-4202-9D28-8A3F5198B267}|ExpenseManagement\\ExpenseManagement.csproj|solutionrelative:expensemanagement\\repository\\expenserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670F7C35-2191-4202-9D28-8A3F5198B267}|ExpenseManagement\\ExpenseManagement.csproj|c:\\users\\ravindra.raj\\source\\repos\\expensemanagement\\expensemanagement\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670F7C35-2191-4202-9D28-8A3F5198B267}|ExpenseManagement\\ExpenseManagement.csproj|solutionrelative:expensemanagement\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670F7C35-2191-4202-9D28-8A3F5198B267}|ExpenseManagement\\ExpenseManagement.csproj|c:\\users\\ravindra.raj\\source\\repos\\expensemanagement\\expensemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670F7C35-2191-4202-9D28-8A3F5198B267}|ExpenseManagement\\ExpenseManagement.csproj|solutionrelative:expensemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670F7C35-2191-4202-9D28-8A3F5198B267}|ExpenseManagement\\ExpenseManagement.csproj|c:\\users\\ravindra.raj\\source\\repos\\expensemanagement\\expensemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{670F7C35-2191-4202-9D28-8A3F5198B267}|ExpenseManagement\\ExpenseManagement.csproj|solutionrelative:expensemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670F7C35-2191-4202-9D28-8A3F5198B267}|ExpenseManagement\\ExpenseManagement.csproj|c:\\users\\ravindra.raj\\source\\repos\\expensemanagement\\expensemanagement\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670F7C35-2191-4202-9D28-8A3F5198B267}|ExpenseManagement\\ExpenseManagement.csproj|solutionrelative:expensemanagement\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670F7C35-2191-4202-9D28-8A3F5198B267}|ExpenseManagement\\ExpenseManagement.csproj|c:\\users\\ravindra.raj\\source\\repos\\expensemanagement\\expensemanagement\\model\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670F7C35-2191-4202-9D28-8A3F5198B267}|ExpenseManagement\\ExpenseManagement.csproj|solutionrelative:expensemanagement\\model\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670F7C35-2191-4202-9D28-8A3F5198B267}|ExpenseManagement\\ExpenseManagement.csproj|c:\\users\\ravindra.raj\\source\\repos\\expensemanagement\\expensemanagement\\service\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670F7C35-2191-4202-9D28-8A3F5198B267}|ExpenseManagement\\ExpenseManagement.csproj|solutionrelative:expensemanagement\\service\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\RAVINDRA.RAJ\\source\\repos\\ExpenseManagement\\ExpenseManagement\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "ExpenseManagement\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\RAVINDRA.RAJ\\source\\repos\\ExpenseManagement\\ExpenseManagement\\ConnectionStrings.cs",
+              "RelativeToolTip": "ExpenseManagement\\ConnectionStrings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:02:09.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RAVINDRA.RAJ\\source\\repos\\ExpenseManagement\\ExpenseManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpenseManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\RAVINDRA.RAJ\\source\\repos\\ExpenseManagement\\ExpenseManagement\\appsettings.json",
+              "RelativeToolTip": "ExpenseManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-13T05:27:17.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAVINDRA.RAJ\\source\\repos\\ExpenseManagement\\ExpenseManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\RAVINDRA.RAJ\\source\\repos\\ExpenseManagement\\ExpenseManagement\\Program.cs",
+              "RelativeToolTip": "ExpenseManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:16:47.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\RAVINDRA.RAJ\\source\\repos\\ExpenseManagement\\ExpenseManagement\\Model\\Expense.cs",
+              "RelativeDocumentMoniker": "ExpenseManagement\\Model\\Expense.cs",
+              "ToolTip": "C:\\Users\\RAVINDRA.RAJ\\source\\repos\\ExpenseManagement\\ExpenseManagement\\Model\\Expense.cs",
+              "RelativeToolTip": "ExpenseManagement\\Model\\Expense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:48:05.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\RAVINDRA.RAJ\\source\\repos\\ExpenseManagement\\ExpenseManagement\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "ExpenseManagement\\Controllers\\ExpenseController.cs",
+              "ToolTip": "C:\\Users\\RAVINDRA.RAJ\\source\\repos\\ExpenseManagement\\ExpenseManagement\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "ExpenseManagement\\Controllers\\ExpenseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:31:10.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\RAVINDRA.RAJ\\source\\repos\\ExpenseManagement\\ExpenseManagement\\Repository\\ExpenseRepo.cs",
+              "RelativeDocumentMoniker": "ExpenseManagement\\Repository\\ExpenseRepo.cs",
+              "ToolTip": "C:\\Users\\RAVINDRA.RAJ\\source\\repos\\ExpenseManagement\\ExpenseManagement\\Repository\\ExpenseRepo.cs",
+              "RelativeToolTip": "ExpenseManagement\\Repository\\ExpenseRepo.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwFcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:07:33.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\RAVINDRA.RAJ\\source\\repos\\ExpenseManagement\\ExpenseManagement\\Service\\IExpenseService.cs",
+              "RelativeDocumentMoniker": "ExpenseManagement\\Service\\IExpenseService.cs",
+              "ToolTip": "C:\\Users\\RAVINDRA.RAJ\\source\\repos\\ExpenseManagement\\ExpenseManagement\\Service\\IExpenseService.cs",
+              "RelativeToolTip": "ExpenseManagement\\Service\\IExpenseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:07:29.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
